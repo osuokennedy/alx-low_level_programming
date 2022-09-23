@@ -1,8 +1,10 @@
 #include <stdio.h>
 /**
- *main - Entrry point
+ *main - Entry point
  *
- *return: Always 0 (success)
+ *Description: 'printing string using printf'
+ *
+ *Return: Always 0 (success)
  *
  */
 int main(void)
