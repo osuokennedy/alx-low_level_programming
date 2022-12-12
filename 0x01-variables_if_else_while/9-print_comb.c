@@ -12,10 +12,10 @@ int main(void)
 	{
 	putchar(Alpha);
 	if (Alpha != 57)
-	{
-	putchar(',');
-	putchar(' ');
-	}
+		{
+		putchar(',');
+		putchar(' ');
+		}
 	}
 	return (0);
 }
