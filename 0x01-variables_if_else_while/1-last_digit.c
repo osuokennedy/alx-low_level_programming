@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdlib.h>
 /**
- * main - Assign a random numberto variable n each it is executed
+ * main - Assign a random number to variable n each it is executed
  * Return: Always 0
  */
 int main(void)
@@ -14,7 +14,7 @@ n = rand() - RAND_MAX / 2;
 a = n % 10;
 if (a > 5)
 {
-printf("Last digit of % d is % d and greater than 5\n", n, a);
+printf("Last digit of % d is % d and greater than 5\n ", n, a);
 }
 else if (a == 0)
 {
