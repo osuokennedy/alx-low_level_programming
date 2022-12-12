@@ -14,7 +14,7 @@ int main(void)
 	if (Alpha != 57)
 		{
 		putchar(',');
-		putchar(' ' );
+		putchar(' ');
 		}
 	}
 	return (0);
