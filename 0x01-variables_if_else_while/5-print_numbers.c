@@ -2,13 +2,13 @@
 /**
  * main - Entry
  *
- * Retuen: Always 0
+ * Return: Always 0(Success)
  */
 int main(void)
 {
 	int Alpha;
 
-	for (Alpha = 0; Alpha <= 10; Alpha++)
+	for (Alpha = 0; Alpha <= 9; Alpha++)
 		printf("%d", Alpha);
 	printf("\n");
 	return (0);
