@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- *print_alphabet - Entry point
+ *print_alphabet - Print lower case alphabets
  *
  *Return: always 0
  */
@@ -13,5 +13,4 @@ _putchar('c');
 c++;
 }
 _putchar('\n');
-return ('0');
 }
