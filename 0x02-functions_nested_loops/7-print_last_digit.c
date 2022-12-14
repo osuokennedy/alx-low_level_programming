@@ -9,7 +9,7 @@ int print_last_digit(int value)
 int var;
 
 var = value % 10;
- if (value < 0)
+if (value < 0)
 {
 var *= -1;
 }
