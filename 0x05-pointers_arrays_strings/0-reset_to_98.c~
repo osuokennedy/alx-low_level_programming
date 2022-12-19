@@ -1,0 +1,13 @@
+#include "main.h"
+
+/**
+ *reset_to_98 - Reset variable to original value
+ *@n: integer varible
+ */
+
+void reset_to_98(int *n)
+{
+int *n = 98;
+*p = &n;
+return (0);
+}
